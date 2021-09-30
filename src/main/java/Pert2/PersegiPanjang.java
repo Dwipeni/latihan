@@ -34,7 +34,7 @@ public class PersegiPanjang {
     }
     
     public static void main(String[] args) {
-        System.out.println("== PROGRAM OPERASI PADA PERSEGI PANJANG ==");
+        System.out.println("== PROGRAM OPERASI PADA PERSEGI PANJANG Peni ==");
         System.out.println();
                 
         PersegiPanjang pp = new PersegiPanjang();
